@@ -71,14 +71,6 @@ Whim is a mobile application that enables users to discover and join social even
 
 [TBD - Add installation instructions]
 
-## 🤝 Contributing
-
-[TBD - Add contribution guidelines]
-
-## 📄 License
-
-[TBD - Add license information]
-
 ## 📞 Contact
 
 [TBD - Add contact information]
