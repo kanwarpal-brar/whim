@@ -4,12 +4,6 @@ Whim is a mobile application that enables users to discover and join social even
 
 <img src="home.png" width="350"/>
 
-## 🎥 Demo
-
-Check out our app demo video:
-
-[![Whim Demo Video](assets/video-thumbnail.png)](https://youtu.be/your-video-id)
-
 ## ✨ Features
 
 ### 🗺️ Event Discovery
