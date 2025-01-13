@@ -2,6 +2,14 @@
 
 Whim is a mobile application that enables users to discover and join social events happening around them in real-time through geolocation-based notifications. The app focuses on fostering spontaneous social interactions by connecting event hosts with nearby potential attendees.
 
+<img src="home.png" width="350"/>
+
+## 🎥 Demo
+
+Check out our app demo video:
+
+[![Whim Demo Video](assets/video-thumbnail.png)](https://youtu.be/your-video-id)
+
 ## ✨ Features
 
 ### 🗺️ Event Discovery
